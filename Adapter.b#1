@@ -199,6 +199,12 @@
 <wire x1="33.02" y1="12.065" x2="33.02" y2="10.795" width="0.3048" layer="21"/>
 <wire x1="31.75" y1="9.525" x2="31.75" y2="8.255" width="0.3048" layer="21"/>
 <wire x1="33.02" y1="9.525" x2="33.02" y2="8.255" width="0.3048" layer="21"/>
+<polygon width="0.3048" layer="22">
+<vertex x="3.81" y="25.4"/>
+<vertex x="62.23" y="25.4"/>
+<vertex x="62.23" y="2.54"/>
+<vertex x="3.81" y="2.54"/>
+</polygon>
 </plain>
 <libraries>
 <library name="20021521-00010C1LF">
